@@ -75,9 +75,9 @@ PLUGIN_BLACKLIST = [
 
 # If will isn't accessible at localhost, you must set this for his keepalive to work.
 # Note no trailing slash.
-WILL_PUBLIC_URL = "http://boom-handler.herokuapp.com"
-WILL_USERNAME = '166618_1205502@chat.hipchat.com'
-WILL_PASSWORD = 'innovationday'
+#WILL_PUBLIC_URL = "http://boom-handler.herokuapp.com"
+#WILL_USERNAME = '166618_1205502@chat.hipchat.com'
+#WILL_PASSWORD = 'innovationday'
 
 # Port to bind the web server to (defaults to $PORT, then 80.)
 # Set > 1024 to run without elevated permission.
